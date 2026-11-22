@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.0.0] - 2026-11-22
+
+_No API changes detected._
+
 ## [1.0.0] - 2026-10-19
 
 _No API changes detected._
